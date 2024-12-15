@@ -24,6 +24,14 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
       # "vscodevim.vim"
+      "eamodio.gitlens"
+      "ms-azuretools.vscode-docker"
+      "PKief.material-icon-theme"
+      "onecentlin.laravel5-snippets"
+      "Durzn.brackethighlighter"
+      "naumovs.color-highlight"
+      "oderwat.indent-rainbow"
+      "rangav.vscode-thunder-client"
     ];
 
     # Enable previews
